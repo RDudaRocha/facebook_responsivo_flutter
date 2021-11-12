@@ -25,7 +25,7 @@ O objetivo desse aplicativo foi desenvolver um clone da interface do facebook co
 ## 📱 Preview da aplicação
 
 <h1 align="center">
-   <img src="https://github.com/RDudaRocha/facebook_mobile_flutter/blob/main/imgem/testefacemob.gif" alt="Preview app"/>
+   <img src="https://github.com/RDudaRocha/facebook_responsivo_flutter/blob/main/imagens/testefaceweb.gif" alt="Preview app"/>
 </h1>
 
 ## 🛠 Tecnologias utilizadas
